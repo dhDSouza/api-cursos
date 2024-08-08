@@ -4,7 +4,7 @@
   "description": "Este repositório contém uma API REST simples utilizando MySQL e TypeScript.",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node-dev src/index.ts"
   },
   "repository": {
     "type": "git",
