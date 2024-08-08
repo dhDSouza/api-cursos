@@ -1,0 +1,26 @@
+{
+  "name": "api-cursos",
+  "version": "1.0.0",
+  "description": "Este repositório contém uma API REST simples utilizando MySQL e TypeScript.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhDSouza/api-cursos.git"
+  },
+  "author": "Daniel Henrique de Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhDSouza/api-cursos/issues"
+  },
+  "homepage": "https://github.com/dhDSouza/api-cursos#readme",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.5.4"
+  }
+}
